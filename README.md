@@ -25,7 +25,7 @@ Bangalore](http://namechangebanglore.com/) - 🌱 I’m currently learning
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jha-6922921b2/"
+    href="https://www.linkedin.com/in/omkar-palav1610"
     target="blank"
     ><img
       align="center"
