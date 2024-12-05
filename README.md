@@ -20,7 +20,7 @@ Bangalore](http://namechangebanglore.com/) - 🌱 I’m currently learning
 *Node.js,Express.js* - 👨‍💻 All of my projects are available at
 [https://ajmac5600.github.io/react-portfolio/](https://ajmac5600.github.io/react-portfolio/)
 - 💬 Ask me about *react,CSS,HTML and PHP* - 📫 How to reach me
-*abhishekajeetjha@gmail.com*
+*omkarpalav1610@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
