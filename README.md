@@ -103,7 +103,7 @@ Bangalore](http://namechangebanglore.com/) - 🌱 I’m currently learning
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=ajmac5600&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=Omkarpalav&show_icons=true&locale=en"
     alt="ajmac5600"
   />
 </p>
