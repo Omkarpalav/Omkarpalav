@@ -15,8 +15,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Name Change
-Bangalore](http://namechangebanglore.com/) - 🌱 I’m currently learning
+- 🔭 I’m currently working on [Lokamat Newspaper](https://riyoadvertising.com/lokmat-newspaper/) - 🌱 I’m currently learning
 *Node.js,Express.js* - 👨‍💻 All of my projects are available at
 [https://ajmac5600.github.io/react-portfolio/](https://ajmac5600.github.io/react-portfolio/)
 - 💬 Ask me about *react,CSS,HTML and PHP* - 📫 How to reach me
