@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://ajmac5600.github.io/react-portfolio/)
 
 <h1 align="center">Hi 👋, I'm Omkar Palav</h1>
 <h3 align="center">A Passionate Laravel & PHP Developer from India </h3>
@@ -10,7 +9,7 @@
 />
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=ajmac5600&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/%20views&color=0e75b6&style=flat"
     alt="ajmac5600"
   />
 </p>
