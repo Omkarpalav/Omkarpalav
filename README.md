@@ -15,11 +15,10 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Lokamat Newspaper](https://riyoadvertising.com/lokmat-newspaper/) - 🌱 I’m currently learning
-*Laravel* - 👨‍💻 All of my projects are available at
-[https://ajmac5600.github.io/react-portfolio/](https://ajmac5600.github.io/react-portfolio/)
-- 💬 Ask me about *react,CSS,HTML and PHP* - 📫 How to reach me
-*omkarpalav1610@gmail.com*
+- 🔭  I’m currently working as a Laravel / PHP Developer with 2.5 years of experience-
+- 🌱 I’m continuously learning and improving my skills in Laravel, PHP, MySQL, and React
+- 💬 Ask me about Laravel, PHP, MySQL, JavaScript, React, HTML, and CSS
+- 📫 How to reach me *omkarpalav1610@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
